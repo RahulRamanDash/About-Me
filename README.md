@@ -1,4 +1,4 @@
-![Rahul Raman Dash Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Rahul Raman Dash Banner]
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Rahul</h2>
 
@@ -45,8 +45,5 @@
 
 <p align="center">
 <a href="https://rahulramandash.github.io"><img src="https://img.shields.io/badge/-rahulramandash.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://in.linkedin.com/in/rahul-raman-dash-61aa591b6"><img src="https://img.shields.io/badge/-rahul-raman-dash-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/rahul_raman_dash/"><img src="https://img.shields.io/badge/-@Rahul_Raman_Dash?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/rahul.dash.184881"><img src="https://img.shields.io/badge/-@Rahul.Dash?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://twitter.com/RahulRamanDash1"><img src="https://img.shields.io/badge/-@RahulRamanDash1?style=flat&l>
+
 </p>
